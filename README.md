@@ -1,0 +1,2 @@
+# Program-Inventaris-Berbasis-Web-PHP-MySQLi
+Assalamulaikum Selamat Siang Salam Sejahtera untuk kita semua, Update lagi ni guys, Kali ini gudang-it site Akan share Program Program Inventaris Berbasis Web PHP MySQLi  Pastinya teman-teman yang kuliah ambil jurusan IT, Entah itu Teknik Informatika, Sistem Informasi DLL pasti sudah tidak asing dengan bahasa pemograman ini.  Sistemnya dalam Program ini belom terlalu canggih, teman-teman boleh mengembangkannya lagi.Ini Saya Perlihatkan beberapa tampilannnya.
